@@ -1,2 +1,2 @@
-# wrustle
-Rust CMS
+# Crustle
+RustLang CMS
