@@ -1,2 +1,2 @@
-# Crusmax
+# crusmax
 RustLang CMS
