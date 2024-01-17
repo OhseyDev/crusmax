@@ -22,7 +22,7 @@ fn init_syslog() {
     let formatter = Formatter3164 {
         facility: Facility::LOG_USER,
         hostname: None,
-        process: "crustms".into(),
+        process: "crusmax".into(),
         pid: std::process::id()
     };
 
